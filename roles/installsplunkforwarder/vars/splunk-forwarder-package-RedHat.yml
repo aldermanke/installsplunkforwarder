@@ -1,4 +1,5 @@
 
-splunkforwarderpackage: "splunkforwarder-{{ splunkforwarderversion }}-linux-2.6-x86_64.rpm"
+splunkforwarderpackage: "{{ role_path}}/splunkforwarder-{{ splunkforwarderversion }}-linux-2.6-x86_64.rpm"
+#splunkforwardermanifest: "/opt/splunkforwarder/splunkforwarder-{{ splunkforwarderversion }}-linux-2.6-x86_64-manifest"
 splunkforwardermanifest: "/opt/splunkforwarder/splunkforwarder-{{ splunkforwarderversion }}-linux-2.6-x86_64-manifest"
 

@@ -1,4 +1,4 @@
 
 splunkservers:
- - "mysplunkserver.example.com:9997"
+ - "http://192.168.1.25:9997"
 

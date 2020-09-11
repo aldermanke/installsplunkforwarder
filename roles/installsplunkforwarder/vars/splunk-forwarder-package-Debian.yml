@@ -1,4 +1,0 @@
-
-splunkforwarderpackage: "splunkforwarder-{{ splunkforwarderversion }}-linux-2.6-amd64.deb"
-splunkforwardermanifest: "/opt/splunkforwarder/splunkforwarder-{{ splunkforwarderversion }}-linux-2.6-x86_64-manifest"
-
